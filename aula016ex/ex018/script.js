@@ -14,7 +14,8 @@ function isNumero(n){
 
 
 function inLista(n, l) {
-    /*
+
+    /* QUEM SABE ALGUM DIA
     if (l.indexOf(Number(n)) != -1) {
         return true
     } else {
